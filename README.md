@@ -5,7 +5,7 @@ Beta testers were interested in the ‘PlanMyTrip” app which I created and req
 
  `Summary of Analysis`
  
- ![WeatherPy_travel_map_markers.png](https://github.com/charleside2001/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+ ![WeatherPy_travel_map_markers .png](https://github.com/charleside2001/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers%20.png)
   
 
 ![`web link for this analysis`](https://github.com/charleside2001/World_Weather_Analysis.git)
